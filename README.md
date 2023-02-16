@@ -9,8 +9,5 @@
 
 ### Personal Projects
 
-#### Flutter
-- [MyClinic](https://github.com/DMouayad/DMouayad/blob/main/MyClinic_README.md)
+* <b>[MyClinic](https://github.com/DMouayad/DMouayad/blob/main/MyClinic_README.md)</b>
 
-#### Laravel
-- [MyClinic](https://github.com/DMouayad/DMouayad/blob/main/MyClinic_README.md)
