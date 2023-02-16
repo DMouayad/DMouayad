@@ -50,9 +50,6 @@ A system designed to help dental clinics manage their day-to-day operations more
 Our main focus is to provide a user-friendly system that benefits both solo practitioners and large dental clinics with multiple dentists and secretaries.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### Documentation 
 * [Software Requirements Specification(SRS)](https://docs.google.com/document/d/1W5xSjx-R9lCxBdTphEAd1NDj8JDbdyq2r8N_XN_ziWY/edit?usp=sharing)
 * Diagrams:
@@ -60,12 +57,9 @@ Our main focus is to provide a user-friendly system that benefits both solo prac
 
 ### Built With
 
-* [![Flutter][Flutter]][Flutter-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+* [![Flutter][Flutter]][Flutter-url] Windows and Mobile Apps
+* [![Laravel][Laravel.com]][Laravel-url] Backend and API
+* [![Express][Express]][Express-url] Realtime Notifications and Chat
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -88,15 +82,10 @@ For Instaliation Instructions and Prerequisites, please refer to:
     - [ ] Spanish
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
@@ -104,9 +93,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 For any information regarding this project, please feel free to reach out!
 <br/>
 Mouayad - muayad.perun@outlook.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -125,5 +111,12 @@ Mouayad - muayad.perun@outlook.com
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Flutter]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+[Express]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[NodeJs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[Flutter-url]: https://flutter.dev/
 [Laravel-url]: https://laravel.com
+[Express-url]: https://expressjs.com/
+
 
