@@ -51,15 +51,17 @@ Our main focus is to provide a user-friendly system that benefits both solo prac
 
 
 ### Documentation 
-* [Software Requirements Specification(SRS)](https://docs.google.com/document/d/1W5xSjx-R9lCxBdTphEAd1NDj8JDbdyq2r8N_XN_ziWY/edit?usp=sharing)
-* Diagrams:
-  - [ERD](https://drawsql.app/teams/dragons/diagrams/myclinic)
+* <b>[Software Requirements Specification(SRS)](https://docs.google.com/document/d/1W5xSjx-R9lCxBdTphEAd1NDj8JDbdyq2r8N_XN_ziWY/edit?usp=sharing)</b>
+* <b>System Architecture Diagrams:</b>
+  - [C4 Model]()
+  - [ER](https://drawsql.app/teams/dragons/diagrams/myclinic)
 
 ### Built With
 
 * [![Flutter][Flutter]][Flutter-url] Windows and Mobile Apps
 * [![Laravel][Laravel.com]][Laravel-url] Backend and API
 * [![Express][Express]][Express-url] Realtime Notifications and Chat
+* [![MySql][MySql]][MySql-url][![Redis][Redis]][Redis-url] Databases
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -115,8 +117,11 @@ Mouayad - muayad.perun@outlook.com
 [Express]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 [NodeJs]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[MySql]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white
+[MySql-url]: https://www.mysql.com/
 [Flutter-url]: https://flutter.dev/
 [Laravel-url]: https://laravel.com
 [Express-url]: https://expressjs.com/
-
+[Redis-url]: https://redis.io/
 
