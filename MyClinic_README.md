@@ -12,7 +12,7 @@
   <p align="center">
    <b> An improved way to manage your DENTAL CLINIC!</b>
     <br /> <br />
-    <a href="">View Demo</a>
+    View Demo <i>(Soon)</i>
   </p>
 </div>
 
@@ -32,8 +32,9 @@
       </ul>
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#to-do">To-Do</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
@@ -52,8 +53,8 @@ Our main focus is to provide a user-friendly system that benefits both solo prac
 ### Documentation 
 * <b>[Software Requirements Specification(SRS)](https://docs.google.com/document/d/1W5xSjx-R9lCxBdTphEAd1NDj8JDbdyq2r8N_XN_ziWY/edit?usp=sharing)</b>
 * <b>System Architecture Diagrams:</b>
-  - [C4 Model]()
-  - [ER](https://drawsql.app/teams/dragons/diagrams/myclinic)
+  - C4 Model <i>(Soon)</i>
+  - [ER](https://dbdiagram.io/d/63efdadb296d97641d81dc80)
 
 ### Built With
 
@@ -69,6 +70,16 @@ For Instaliation Instructions and Prerequisites, please refer to:
 * [Flutter App Repository](https://github.com/DMouayad/my_clinic_flutter-demo)
 * [Backend App (Laravel) Repository](https://github.com/DMouayad/my_clinic_laravel)
 * [NodeJs App (Express) Repository](https://github.com/DMouayad/my_clinic_expressJs)
+
+
+<!-- To-Do -->
+## To-Do
+
+- [ ] Add app Logo.
+- [ ] Add app screenshots (on Windows, Mobile, Tablet, etc).
+- [ ] Add a video for Demo
+- [ ] Add C4 Model Diagrams
+
 
 <!-- CONTACT -->
 ## Contact
