@@ -10,7 +10,7 @@
 ### Personal Projects
  
 #### MyClinic
-  - [Project Docs](https://github.com/DMouayad/DMouayad/blob/main/MyClinic_README.md)
+  - [Project Repo](https://github.com/DMouayad/my_clinic/tree/main)
   - [Laravel Repo](https://github.com/DMouayad/my_clinic_laravel)
   - [Flutter Repo](https://github.com/DMouayad/my_clinic_flutter-demo)
 
