@@ -7,11 +7,3 @@
 - 📫 Contact info: [Email](mailto:muayad.perun@outlook.com), [Facebook](https://www.facebook.com/moaiad.alham/), [LinkedIn](https://www.linkedin.com/in/mouayad-alhamwi-85bb9420b/)
 <hr/>
 
-### Personal Projects
- 
-#### MyClinic
-  - [Project Repo](https://github.com/DMouayad/my_clinic/tree/main)
-  - [Laravel Repo](https://github.com/DMouayad/my_clinic_laravel)
-  - [Flutter Repo](https://github.com/DMouayad/my_clinic_flutter-demo)
-
-<hr/>
