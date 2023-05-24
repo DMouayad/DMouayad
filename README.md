@@ -37,4 +37,3 @@
   [!["Telegram"](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/DDragon13)
   [!["Outlook"](https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:muayad.perun@outlook.com)
   </div>
-<hr/>
