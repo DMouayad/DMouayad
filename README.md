@@ -2,7 +2,7 @@
 
 ### Who Am I \ What I Do ?
 
-<img src="https://25.media.tumblr.com/03f4da17fb89ade647863d640eddbfba/tumblr_msv2wqoLW11qiv1fao1_1280.gif" width="120"/>
+<img src="https://25.media.tumblr.com/03f4da17fb89ade647863d640eddbfba/tumblr_msv2wqoLW11qiv1fao1_1280.gif" width="100"/>
   
 
 ### A Longlife Learner & A Software Engineer
@@ -25,7 +25,10 @@
 
 #### 🛠 Projects
 
-- 
+- [DUNE](https://github.com/DMouayad/DUNE): a cross-platform music player and streaming application.
+- [BooksGenie](https://github.com/DMouayad/BooksGenie): a personal library app.
+
+<hr/>
 
 #### 👋🏻 Say Hi
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mouayad-alhamwi-85bb9420b/)
