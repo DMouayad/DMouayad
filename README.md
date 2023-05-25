@@ -45,12 +45,7 @@
  #### 📪 Contact Info: 
  
  <p align="center">
-  <a href="mouayad.alhamwi.ma@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-%230D1117?style=for-the-badge&logo=gmail&logoColor=white">
-    <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black">
-  </picture>
- </a>
+
  <a href="https://www.facebook.com/moaiad.alham/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Facebook-%230D1117?style=for-the-badge&logo=facebook&logoColor=white">
