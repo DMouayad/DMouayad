@@ -29,16 +29,16 @@
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=flutter&logoColor=white">
-    <img align="center" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=flutter&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white">
+    <img align="center" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white">
   </picture>
    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/php-%23593d88.svg?&style=for-the-badge&logo=flutter&logoColor=white">
-    <img align="center" alt="Dart" src="https://img.shields.io/badge/php-%23593d88.svg?&style=for-the-badge&logo=flutter&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/php-%23593d88.svg?&style=for-the-badge&logo=php&logoColor=white">
+    <img align="center" alt="Dart" src="https://img.shields.io/badge/php-%23593d88.svg?&style=for-the-badge&logo=php&logoColor=white">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=flutter&logoColor=white">
-    <img align="center" alt="Dart" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=flutter&logoColor=white">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
+    <img align="center" alt="Dart" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
   </picture>
  </p>
 <br/>
