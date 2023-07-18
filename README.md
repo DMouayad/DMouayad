@@ -1,21 +1,14 @@
 <h1 align="center">
-<img src="https://25.media.tumblr.com/03f4da17fb89ade647863d640eddbfba/tumblr_msv2wqoLW11qiv1fao1_1280.gif" width="56"/>
-  
-  <a href="">
-    <picture>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=350&color=F7AE24FF&center=true&&size=18&width=435&height=26&lines=Who+Am+I+%5C+What+I+Do" alt="Typing SVG" /></a>
-    </picture>
-  </a>
-<img src="https://25.media.tumblr.com/03f4da17fb89ade647863d640eddbfba/tumblr_msv2wqoLW11qiv1fao1_1280.gif" width="56"/>
-  
+ Who Am I / What I Do
 </h1>
 
 
-### A Longlife Learner \ A Software Engineer
-  
+### A Longlife-Learner Software Engineer
+
+
 <br/>
 
-- 🔎 I'm currently learning: <b><i>Software System Design, Software System Modeling, API Design, Flutter, NodeJs </i></b>
+- 🔎 I'm currently learning: <b><i>Software System Design, Software System Modeling, API Design, Flutter, Go </i></b>
 <br/><br/>
 - 💻 I'm currently working on <b>[DUNE🎶](https://github.com/DMouayad/DUNE)</b>
 <br/>
