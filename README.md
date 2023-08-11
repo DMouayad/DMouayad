@@ -1,6 +1,7 @@
-<h1 align="center">
- Who Am I / What I Do
-</h1>
+<h1 align="center"> Who Am I / What I Do</h1>
+<div align= "center">
+<img src="https://25.media.tumblr.com/03f4da17fb89ade647863d640eddbfba/tumblr_msv2wqoLW11qiv1fao1_1280.gif" width="48"/>
+</div>
 
 
 ### A Longlife-Learner Software Engineer
