@@ -9,7 +9,7 @@
 
 <br/>
 
-- 🔎 I'm currently learning: <b><i>Software System Design, Software System Modeling, API Design, Flutter, Go </i></b>
+- 🔎 I'm currently learning: <b><i>Software System Design, Software System Modeling, `Rust` </i></b>
 <br/><br/>
 - 💻 I'm currently working on <b>[DUNE🎶](https://github.com/DMouayad/DUNE)</b>
 <br/>
