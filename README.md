@@ -9,7 +9,7 @@
 
 <br/>
 
-- 🔎 I'm currently learning: <b><i>Software System Design, Software System Modeling, `Rust` </i></b>
+- 🔎 I'm currently learning: [Rust](https://www.rust-lang.org/) </i></b>
 <br/><br/>
 - 💻 I'm currently working on <b>[DUNE🎶](https://github.com/DMouayad/DUNE)</b>
 <br/>
@@ -29,23 +29,6 @@
  </p>
 <br/>
 
-#### 🌎 Find me on:
-
-  <p align="center">
- <a href="https://www.linkedin.com/in/mouayad-alhamwi-85bb9420b/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linkedin-%230D1117.svg?&style=for-the-badge&logo=Linkedin&logoColor=white">
-    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black">
-  </picture>
- </a>
- <a href="https://github.com/DMouayad" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-%230D1117?style=for-the-badge&logo=github&logoColor=white">
-    <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black">
-  </picture>
- </a>
-  </p>
-<br/>
   
  #### 📪 Contact Info: 
  
