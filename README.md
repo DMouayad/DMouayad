@@ -39,12 +39,6 @@
     <img align="center" alt="Facebook" src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=black">
   </picture>
  </a>
- <a href="https://www.facebook.com/moaiad.alham/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Facebook-%230D1117?style=for-the-badge&logo=facebook&logoColor=white">
-    <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=black">
-  </picture>
- </a>
  <a href="https://t.me/DDragon13" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%230D1117?style=for-the-badge&logo=telegram&logoColor=white">
