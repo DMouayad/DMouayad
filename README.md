@@ -9,11 +9,6 @@
 
 <br/>
 
-- 🔎 I'm currently learning: [Rust](https://www.rust-lang.org/) </i></b>
-<br/><br/>
-- 💻 I'm currently working on <b>[DUNE🎶](https://github.com/DMouayad/DUNE)</b>
-<br/>
-
 #### 🙋🏻‍♂️ Ask me anything about:
 
 <p align="center">
