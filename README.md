@@ -7,7 +7,7 @@
 
 <br/>
 
-#### Skillset
+#### 🤹‍♂️ Skillset
 
 <div>
     <picture>
