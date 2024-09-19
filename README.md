@@ -1,10 +1,8 @@
-<h1 align="center"> Who Am I / What I Do</h1>
-<div>
-<img src="https://25.media.tumblr.com/03f4da17fb89ade647863d640eddbfba/tumblr_msv2wqoLW11qiv1fao1_1280.gif" width="48"/>
+<div align="center">
+    <img src="https://25.media.tumblr.com/03f4da17fb89ade647863d640eddbfba/tumblr_msv2wqoLW11qiv1fao1_1280.gif" width="48"/>
 </div>
 
-
-### A Longlife-Learner Software Engineer
+### A Longlife-Learner & A Software Engineer
 
 
 <br/>
@@ -40,7 +38,7 @@
   
  #### 📪 Contact Info: 
  
- <p align="center">
+ <p>
  <a href="mailto:mouayad.alhamwi.ma@gmail.com" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-%230D1117?style=for-the-badge&logo=Gmail&logoColor=white">
