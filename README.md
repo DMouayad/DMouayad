@@ -4,7 +4,6 @@
 
 ### A Longlife-Learner & A Software Engineer
 
-
 <br/>
 
 #### 🤹‍♂️ Skillset
@@ -52,8 +51,3 @@
   </picture>
  </a>
 </p>
-  
-#### 🛠 Projects
-
-- **[DUNE](https://github.com/DMouayad/DUNE)** a cross-platform music player and streaming application.
-- **[BooksGenie](https://github.com/DMouayad/BooksGenie)** a personal library app.
