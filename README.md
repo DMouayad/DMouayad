@@ -5,13 +5,14 @@
 </div>
   
  
- <p>
+ <p style="text-align:center;">
  <a href="mailto:mouayad.alhamwi.ma@gmail.com" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-%230D1117?style=for-the-badge&logo=Gmail&logoColor=white">
     <img align="center" alt="Facebook" src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=black">
   </picture>
- </a>
+ </a> 
+
  <a href="https://t.me/DDragon13" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-%230D1117?style=for-the-badge&logo=telegram&logoColor=white">
